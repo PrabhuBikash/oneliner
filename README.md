@@ -1,2 +1,1 @@
-# oneliner
-A minimalist esolang where every program is a single Python-compatible line of code. Explore creativity through simplicity.
+# oneliner: Write a single line of Python (no '\n')—everything after the first newline is ignored as comments.

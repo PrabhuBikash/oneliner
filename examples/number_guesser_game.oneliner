@@ -1,0 +1,1 @@
+import random;n=random.randint(1,int(input("range:1-")));exec('while 1:exec(\'g=int(input("guess:"))\'),exec(\'exit("good")if g==n else print("try low!"if g>n else"try high!")\')')
